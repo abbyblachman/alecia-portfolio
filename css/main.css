@@ -1,0 +1,14 @@
+.alecia-font {
+    font-family: 'Bangers', cursive;
+    font-size: 2rem;
+}
+
+.support-font {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+
+.alecia-background {
+    display: flex;
+    width: 100%;
+}

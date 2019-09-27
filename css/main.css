@@ -1,3 +1,9 @@
+
+.about {
+    margin-top: 8rem;
+    text-align: center;
+}
+
 .alecia-background {
     background-image: url("./images/alecia-background-mobile.jpg");
     background-repeat: no-repeat;
@@ -12,14 +18,79 @@
     font-size: 2rem;
 }
 
+.contact-info {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    color: white;
+    padding: 1rem;
+}
+
+.icon-sizes {
+    height: 2rem;
+    width: 2.5rem;
+}
+
+.links {
+    text-decoration: none;
+}
+
+.list { 
+    list-style: none;
+    display: flex; 
+    flex-direction: column;
+}
+
+.list-pad {
+    padding: 0.5rem;
+}
+
+.resume-margin {
+    margin-top: 8rem;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.resume {
+    width: 12.75rem;
+    height: 16.5rem;
+}
+
+.secondary-background {
+    background-color: black;
+}
+
 .support-font {
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
 }
 
+.statement-font {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    color: white;
+}
+
+.statement-font-pages {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    color: white;
+    justify-content: center;
+}
+
+
+
+.statement {
+    margin-top: 30rem;
+    text-align: center;
+}
+
+
 
 @media (min-width: 1025px) {
 
+.about {
+    margin-top: 20rem;
+}
 
 .alecia-background {
     background-image: url("./images/alecia-background.jpg");
@@ -28,6 +99,26 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.alecia-font {
+    font-family: 'Bangers', cursive;
+    font-size: 4rem;
+}
+
+.list { 
+    list-style: none;
+}
+
+.resume {
+    width: 38.25rem;
+    height: 49.5rem;
+}
+
+.statement {
+    margin-top: 30rem;
+    margin-left: 20rem;
+    justify-content: center;
 }
 }
 

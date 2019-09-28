@@ -1,4 +1,3 @@
-
 .about {
     margin-top: 8rem;
     text-align: center;
@@ -16,6 +15,11 @@
 .alecia-font {
     font-family: 'Bangers', cursive;
     font-size: 2rem;
+}
+
+.clips {
+    width: 100%;
+    height: 100%;
 }
 
 .contact-info {

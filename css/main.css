@@ -31,7 +31,7 @@ a {
 }
 
 .contact-margin {
-    margin-left: 12rem;
+    margin-left: none;
 
 }
 
@@ -130,8 +130,16 @@ ul {
     font-size: 4rem;
 }
 
+.contact-margin {
+    margin-left: 12rem;
+}
+
 .list { 
     list-style: none;
+}
+
+.list-pad {
+    padding: none;
 }
 
 .resume {

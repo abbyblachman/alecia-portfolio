@@ -2,6 +2,12 @@ a {
     color: white;
 }
 
+.a {
+    color: white;
+}
+
+
+
 .about {
     margin-top: 8rem;
     text-align: center;
@@ -24,6 +30,10 @@ a {
 .alecia-font {
     font-family: 'Bangers', cursive;
     font-size: 2rem;
+}
+
+.cardStyled {
+    background-color: black;
 }
 
 .clips {
